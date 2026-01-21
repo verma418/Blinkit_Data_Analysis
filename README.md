@@ -42,12 +42,11 @@ The dataset includes key business attributes such as:
 - 💰 Revenue contribution by item type
 - 🖥️ Power BI Dashboard Preview
 ---
-(Add screenshots from Power BI after exporting visuals as images)
+(https://github.com/verma418/Blinkit_Data_Analysis/blob/main/Blinkit.pdf)
 - Sales Overview Dashboard
 - Outlet Performance Analysis
 - Product Category Insights
 ---
-(Create an assets/ folder in your repo and upload exported Power BI images)
 
 📌 How to Use This Project
 
